@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ferido
+# 👋 Hi, I'm Ferido Fernando
 
 🎓 A B.SC Information technology Graduate | 🔐 Aspiring Pentester & SOC Analyst  
 💻 Passionate about Cybersecurity, Active Directory & Red Teaming, and also exploring other domains in Cybersecurity. 

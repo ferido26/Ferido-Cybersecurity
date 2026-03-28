@@ -42,8 +42,7 @@ and right now here I am, building projects and continous knowledge without getti
 - Covered enumeration → exploitation → privilege escalation
 - Tools: BloodHound, PowerView, Rubeus
 
-
-  ### 🔴 Python Networking Toolkit
+### 🔴 Python Networking Toolkit
   - Built a server and client.
   - Learnings are in the below link
 

@@ -69,6 +69,3 @@ and right now here I am, building projects and continous knowledge without getti
 - LinkedIn: https://www.linkedin.com/in/ferido-fernando/
 
 ---
-
-## ⚡ Fun Fact
-I focus more on **real skills + projects** than just certifications.

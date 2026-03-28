@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Ferido Fernando
 
-🎓 A B.SC Information technology Graduate | 🔐 Aspiring Pentester & SOC Analyst  
-💻 Passionate about Cybersecurity, Active Directory & Red Teaming, and also exploring other domains in Cybersecurity. 
+A B.SC Information technology Graduate | Aspiring Pentester & SOC Analyst  
+Passionate about Cybersecurity, Active Directory & Red Teaming, and also exploring other domains in Cybersecurity. 
 
----
+I was a person who was least interested in IT sector, but after consuming 2 whole months I figured out that I wanted to do something in cybersecurity,
+and right now here I am, building projects and continous knowledge without getting bored. To describe my work ethics in a single line l'll say "I dont work hard but I work with discipline and that keeps me consistent at my work which helps me outwork others"
 
 ## 🚀 About Me
 - 🔍 Currently focused on **Active Directory Exploitation**
@@ -39,7 +40,12 @@
 ### 🔴 Active Directory Attack Playbook
 - Simulated real-world AD attack chain
 - Covered enumeration → exploitation → privilege escalation
-- Tools: BloodHound, PowerView, Rubeus  
+- Tools: BloodHound, PowerView, Rubeus
+
+
+  ### 🔴 Python Networking Toolkit
+  - Built a server and client.
+  - Learnings are in the below link
 
 👉 [View Project](https://github.com/ferido26/Python-Networking-Toolkit)
 
@@ -53,7 +59,8 @@
 ## 📈 What I’m Working On
 - Advanced Active Directory Attacks
 - Red Team Techniques
-- Real-world pentesting labs
+- Website penetration testing!
+- APPsec
 - And a few Python Projects
 
 ---

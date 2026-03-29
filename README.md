@@ -41,6 +41,7 @@ and right now here I am, building projects and continous knowledge without getti
 - Simulated real-world AD attack chain
 - Covered enumeration → exploitation → privilege escalation
 - Tools: BloodHound, PowerView, Rubeus
+[View Project](https://github.com/ferido26/Active-Directory-Attack-Playbook)
 
 ### 🔴 Python Networking Toolkit
   - Built a server and client.

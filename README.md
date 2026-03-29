@@ -1,72 +1,81 @@
-# 👋 Hi, I'm Ferido Fernando
+# Cybersecurity Portfolio
 
-A B.SC Information technology Graduate | Aspiring Pentester & SOC Analyst  
-Passionate about Cybersecurity, Active Directory & Red Teaming, and also exploring other domains in Cybersecurity. 
-
-I was a person who was least interested in IT sector, but after consuming 2 whole months I figured out that I wanted to do something in cybersecurity,
-and right now here I am, building projects and continous knowledge without getting bored. To describe my work ethics in a single line l'll say "I dont work hard but I work with discipline and that keeps me consistent at my work which helps me outwork others"
-
-## 🚀 About Me
-- 🔍 Currently focused on **Active Directory Exploitation**
-- 🛡️ Learning **Pentesting + SOC Analysis**
-- ⚡ Building real-world cybersecurity projects
-- 🎯 Goal: Become a **CHIEF INFORMATION SECURITY OFFICER**
+## Welcome to my Cybersecurity Portfolio.  
+This repository serves as a **central hub** for all my cybersecurity projects, where I document my practical learning, tools, and real-world simulations.
 
 ---
 
-## 🧠 Skills
+##  About Me
+I am a cybersecurity enthusiast focused on:
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Web Application Security  
+- Active Directory Attacks  
+- Python for Security Automation  
 
-### 🔐 Cybersecurity
-- Active Directory Attacks
-- Privilege Escalation (Windows/Linux)
-- Web Application Testing
-- Vulnerability Assessment
-
-### 🛠️ Tools
-- BloodHound
-- Burp Suite
-- Nmap
-- Wireshark
-- Metasploit
-
-### 💻 Programming
-- Python (Automation & Scripting)
-- Bash (Linux)
+I believe in **discipline over motivation**, which helps me stay consistent and continuously improve my skills.
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### 🔴 Active Directory Attack Playbook
-- Simulated real-world AD attack chain
-- Covered enumeration → exploitation → privilege escalation
-- Tools: BloodHound, PowerView, Rubeus
- 
-👉[View Project](https://github.com/ferido26/Active-Directory-Attack-Playbook)
+- Simulated real-world AD attack chain  
+- Covered: Enumeration → Exploitation → Privilege Escalation  
+- Tools: BloodHound, PowerView, Rubeus  
 
-### 🔴 Python Networking Toolkit
-  - Built a server and client.
-  - Learnings are in the below link
-
-👉 [View Project](https://github.com/ferido26/Python-Networking-Toolkit)
-
-
-## 📜 Certifications & Learning
-- CRTP (Attempted)
-- TryHackMe (Blue Team + AD Labs)
+👉 [View Project](https://github.com/ferido26/Active-Directory-Attack-Playbook)
 
 ---
 
-## 📈 What I’m Working On
-- Advanced Active Directory Attacks
-- Red Team Techniques
-- Website penetration testing!
-- APPsec
-- And a few Python Projects
+### 🐍 Python Security Projects
+- Built scripts for automation and security tasks  
+- Includes tools for scanning, enumeration, and networking  
+
+👉 [View Projects](https://github.com/ferido26/Python-Networking-Toolkit)
+
+---
+
+### 🌐 Web Pentesting Projects(Not Started)
+- Hands-on web application security testing  
+- Covers common vulnerabilities like:
+  - SQL Injection  
+  - XSS  
+  - Authentication flaws  
+
+👉 [View Projects](https://github.com/your-username/web-pentesting-projects)
+
+---
+
+### ⚙️ TryHackMe / Labs Documentation(Not Started)
+- Documented learning from practical labs  
+- Includes step-by-step methodologies and notes  
+
+👉 [View Labs](https://github.com/your-username/tryhackme-writeups)
+
+---
+
+## 🛠️ Tools & Technologies
+- Burp Suite  
+- Nmap  
+- Metasploit  
+- BloodHound  
+- Wireshark  
+- Python  
+- Linux  
+
+---
+
+## 🎯 Goals
+- Build strong hands-on expertise in VAPT  
+- Contribute to real-world security projects  
+- Secure a role as a Security Consultant  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ferido-fernando/
+- LinkedIn: [https://www.linkedin.com/in/ferido-fernando/]
 
 ---
+
+## ⭐ Note
+This repository is continuously updated as I learn and build new projects.

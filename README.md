@@ -33,7 +33,7 @@ This repository is the **central hub** of all my cybersecurity projects, where I
   - XSS, SSRF, CSRF 
   - Authentication flaws 
 
-👉 [View Projects](https://github.com/your-username/web-pentesting-projects)
+👉 [View Projects](https://github.com/ferido26/Web-Pen-Pract)
 
 ---
 

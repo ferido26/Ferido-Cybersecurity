@@ -37,18 +37,11 @@ This repository is the **central hub** of all my cybersecurity projects, where I
 
 ---
 
-### ⚙️ TryHackMe / Labs Documentation
-- Documented learning from practical labs  
-- Includes step-by-step methodologies and notes  
-
-👉 [View Labs](https://github.com/your-username/tryhackme-writeups)
-
----
-
 ## 🛠️ Tools & Technologies
 - Burp Suite  
 - Nmap  
-- Metasploit  
+- Metasploit
+- PowerSploit 
 - BloodHound  
 - Wireshark  
 - Python  
@@ -58,7 +51,7 @@ This repository is the **central hub** of all my cybersecurity projects, where I
 
 ## 🎯 Goals
 - Build strong hands-on expertise in VAPT  
-- Contribute to real-world security projects  
+- Contribute to real-world security projects.
 - Secure a role as a Security Consultant  
 
 ---

@@ -19,8 +19,8 @@ This repository is the **central hub** of all my cybersecurity projects, where I
 ---
 
 ### 🐍 Python Security Projects
-- Built scripts for automation and security tasks  
-- Includes tools for scanning, enumeration, and networking  
+- Built scripts for automation and security tasks. 
+- Includes tools for scanning, enumeration, and networking.
 
 👉 [View Projects](https://github.com/ferido26/Python-Networking-Toolkit)
 
@@ -30,8 +30,8 @@ This repository is the **central hub** of all my cybersecurity projects, where I
 - Hands-on web application security testing  
 - Covers common vulnerabilities like:
   - SQL Injection  
-  - XSS  
-  - Authentication flaws  
+  - XSS, SSRF, CSRF 
+  - Authentication flaws 
 
 👉 [View Projects](https://github.com/your-username/web-pentesting-projects)
 

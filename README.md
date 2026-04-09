@@ -26,7 +26,7 @@ This repository is the **central hub** of all my cybersecurity projects, where I
 
 ---
 
-### 🌐 Web Pentesting Projects(Not Started)
+### 🌐 Web Pentesting Projects
 - Hands-on web application security testing  
 - Covers common vulnerabilities like:
   - SQL Injection  
@@ -37,7 +37,7 @@ This repository is the **central hub** of all my cybersecurity projects, where I
 
 ---
 
-### ⚙️ TryHackMe / Labs Documentation(Not Started)
+### ⚙️ TryHackMe / Labs Documentation
 - Documented learning from practical labs  
 - Includes step-by-step methodologies and notes  
 

@@ -1,27 +1,18 @@
 # Cybersecurity Portfolio
 
 ## Welcome to my Cybersecurity Portfolio.  
-This repository serves as a **central hub** for all my cybersecurity projects, where I document my practical learning, tools, and real-world simulations.
-
----
-
-##  About Me
-I am a cybersecurity enthusiast focused on:
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Web Application Security  
-- Active Directory Attacks  
-- Python for Security Automation  
-
-I believe in **discipline over motivation**, which helps me stay consistent and continuously improve my skills.
+This repository is the **central hub** of all my cybersecurity projects, where I document my practical learning, tools, and real-world simulations.
 
 ---
 
 ##  Projects
 
 ### 🔴 Active Directory Attack Playbook
+- This has everything that i've done related to Active Directory.
 - Simulated real-world AD attack chain  
 - Covered: Enumeration → Exploitation → Privilege Escalation  
-- Tools: BloodHound, PowerView, Rubeus  
+- Tools: BloodHound, PowerSploit, Rubeus,
+- THM AD LABS
 
 👉 [View Project](https://github.com/ferido26/Active-Directory-Attack-Playbook)
 
